@@ -1,7 +1,7 @@
 # You are here to see the best ways to output texts in a list?
 # Here we go!
 
-# Oh ye, we need this to import. 
+# Oh yeah, we need this to import. 
 import random
 
 # Here is the first Method. We are just making a list, and print a random choice of the list.
